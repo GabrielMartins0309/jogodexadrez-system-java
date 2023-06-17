@@ -1,3 +1,5 @@
+// Esse projeto foi feito em um curso de Java orientado a objetos.
+
 package application;
 
 import java.util.InputMismatchException;
